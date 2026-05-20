@@ -9,7 +9,7 @@ CORS(app)
 # CADASTRE AQUI OS CPFs DAS PESSOAS QUE PODEM USAR O SISTEMA
 # O CPF deve ser o MESMO que você colocar dentro do elo.py
 AUTHORIZED_CPFS = {
-    "1550308090": {  # ← CPF da pessoa 1
+    "15503080902": {  # ← CPF da pessoa 1
         "name": "Joao leitao",
         "expires": "2040-12-31",
         "active": True
