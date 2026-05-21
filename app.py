@@ -14,9 +14,9 @@ AUTHORIZED_CPFS = {
         "expires": "2040-12-31",
         "active": True
     },
-    "98765432100": {  # ← CPF da pessoa 2
-        "name": "Maria Santos",
-        "expires": "2027-12-31",
+    "1550308090": {  # ← CPF da pessoa 2
+        "name": "Joao leitao",
+        "expires": "2100-12-31",
         "active": True
     },
     # ADICIONE MAIS CPFs AQUI CONFORME NECESSARIO
